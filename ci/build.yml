@@ -9,3 +9,6 @@ jobs:
       
       - name: Build project
         run: echo "Building…"
+
+      - name: Install dependencies
+        run: echo "Installing dependencies…"
